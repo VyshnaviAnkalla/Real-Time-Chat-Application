@@ -1,10 +1,10 @@
-Real-Time Chat Application
+**Real-Time Chat Application**
 
-Overview
+**Overview**
 
 This is a real-time chat application built using Spring Boot and WebSockets for seamless, bidirectional communication between users. It leverages the STOMP protocol for messaging and uses Thymeleaf for dynamic front-end rendering.
 
-Features
+**Features**
 
 Real-time messaging using WebSockets
 
@@ -16,9 +16,9 @@ Support for multiple chat users
 
 Efficient and scalable Spring Boot backend
 
-Technologies Used
+**Technologies Used**
 
-Backend (Server-Side)
+**Backend (Server-Side)**
 
 Spring Boot - Core framework for backend development
 
@@ -28,7 +28,7 @@ Spring Messaging (STOMP Protocol) - Handles messaging
 
 Thymeleaf - Server-side template engine
 
-Frontend (Client-Side)
+**Frontend (Client-Side)**
 
 Thymeleaf - Dynamic HTML rendering
 
